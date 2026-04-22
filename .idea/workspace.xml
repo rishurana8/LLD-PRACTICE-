@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="486cedd0-6a27-49ca-9059-e627d82126da" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/copilotDiffState.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EXITGATE_DETAILED_EXPLANATION.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IMPLEMENTATION_SUMMARY.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LLD_PROBLEM_SOLVING_GUIDE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LLD_STEP_BY_STEP_FRAMEWORK.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QUICK_REFERENCE_CARD.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/rishudesign/com/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/rishudesign/com/ParkingLot/CostComputation/ExitGate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/rishudesign/com/ParkingLot/CostComputation/HourlyPrice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/rishudesign/com/ParkingLot/CostComputation/PricingStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/rishudesign/com/ParkingLot/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/rishudesign/com/ParkingLot/OtherClasses/Ticket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/rishudesign/com/ParkingLot/ParkingSpots/Bike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/rishudesign/com/ParkingLot/ParkingSpots/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/rishudesign/com/ParkingLot/ParkingSpots/EntryGate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/rishudesign/com/ParkingLot/ParkingSpots/FourWheelerManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/rishudesign/com/ParkingLot/ParkingSpots/FourWheelerParkingSpot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/rishudesign/com/ParkingLot/ParkingSpots/ParkingSpaceFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/rishudesign/com/ParkingLot/ParkingSpots/ParkingSpot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/rishudesign/com/ParkingLot/ParkingSpots/ParkingSpotManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/rishudesign/com/ParkingLot/ParkingSpots/TwoWheelerParkingSpot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/rishudesign/com/ParkingLot/ParkingSpots/TwoWheerlerManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/rishudesign/com/ParkingLot/ParkingSpots/Vechile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/rishudesign/com/ParkingLot/enums/DurationType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/rishudesign/com/ParkingLot/enums/VechileType.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_C:/Users/rishu/OneDrive/Desktop/LLDPRACTICE/LLDRACTICE" value="3CWT1KPSUleluqK0OS9AdrKgk20" />
+    </persistenceIdMap>
+  </component>
+  <component name="CopilotUserSelectedModel">
+    <selectedModels>
+      <entry key="agent-panel" value="Claude Haiku 4.5" />
+      <entry key="chat-panel" value="Claude Haiku 4.5" />
+    </selectedModels>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="customMavenHome" value="C:\Program Files\apache-maven-3.9.15" />
+        <option name="mavenHomeTypeForPersistence" value="CUSTOM" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="3CWT1KPSUleluqK0OS9AdrKgk20" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Application.org.rishudesign.com.ParkingLot.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "MavenSettings"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.org.rishudesign.com.ParkingLot.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.rishudesign.com.Main" />
+      <module name="LLDRACTICE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.rishudesign.com.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.rishudesign.com.ParkingLot.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.rishudesign.com.ParkingLot.Main" />
+      <module name="LLDRACTICE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.rishudesign.com.ParkingLot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.org.rishudesign.com.ParkingLot.Main" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="486cedd0-6a27-49ca-9059-e627d82126da" name="Changes" comment="" />
+      <created>1776500110040</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1776500110040</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/rishudesign/com/ParkingLot/CostComputation/ExitGate.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/rishudesign/com/ParkingLot/CostComputation/ExitGate.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/rishudesign/com/ParkingLot/Main.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/rishudesign/com/ParkingLot/ParkingSpots/ParkingSpotManager.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/rishudesign/com/ParkingLot/ParkingSpots/ParkingSpotManager.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="github-copilot-workspace">
+    <instructionFileLocations>
+      <option value=".github/instructions" />
+    </instructionFileLocations>
+    <promptFileLocations>
+      <option value=".github/prompts" />
+    </promptFileLocations>
+  </component>
+</project>
