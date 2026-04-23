@@ -18,7 +18,8 @@ public class EntryGate {
         ParkingSpotManager manager = factory.getParkingManager(vechile.getVechileType(),spots);
         spot = manager.parkVechile(vechile);
         System.out.println("Your vechile is parked");
-    }
+    }  // this is not scalable , entry gate is getting spots and it is dependent on some data structure
+    // and also on every request manager is being created
 
 
     public Ticket GenerateTicket(){
