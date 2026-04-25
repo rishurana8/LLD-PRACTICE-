@@ -5,21 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="486cedd0-6a27-49ca-9059-e627d82126da" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/rishudesign/com/ParkingLot/ImprovedDesign/EntryGate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/rishudesign/com/ParkingLot/ImprovedDesign/ExitGate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/rishudesign/com/ParkingLot/ImprovedDesign/HourlyPricing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/rishudesign/com/ParkingLot/ImprovedDesign/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/rishudesign/com/ParkingLot/ImprovedDesign/ParkingLot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/rishudesign/com/ParkingLot/ImprovedDesign/ParkingSpot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/rishudesign/com/ParkingLot/ImprovedDesign/ParkingSpotManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/rishudesign/com/ParkingLot/ImprovedDesign/PricingStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/rishudesign/com/ParkingLot/ImprovedDesign/SpotStatus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/rishudesign/com/ParkingLot/ImprovedDesign/Ticket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/rishudesign/com/ParkingLot/ImprovedDesign/Vechile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/rishudesign/com/ParkingLot/ImprovedDesign/VechileType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/copilotDiffState.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/rishudesign/com/ElevatorCar/Building.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/rishudesign/com/ElevatorCar/Display.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/rishudesign/com/ElevatorCar/ElevatorCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/rishudesign/com/ElevatorCar/ElevatorController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/rishudesign/com/ElevatorCar/ElevatorScheduler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/rishudesign/com/ElevatorCar/ElevatorSelectionStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/rishudesign/com/ElevatorCar/ExternalButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/rishudesign/com/ElevatorCar/ExternalButtonDispatcher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/rishudesign/com/ElevatorCar/Floor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/rishudesign/com/ElevatorCar/InternalButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/rishudesign/com/ElevatorCar/InternalButtonDispatcher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/rishudesign/com/ElevatorCar/LeastBusyStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/rishudesign/com/ElevatorCar/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/rishudesign/com/ElevatorCar/enums/Direction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/rishudesign/com/ElevatorCar/enums/Status.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/rishudesign/com/ParkingLot/ParkingSpots/EntryGate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/rishudesign/com/ParkingLot/ParkingSpots/EntryGate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/rishudesign/com/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +42,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Interface" />
         <option value="Class" />
       </list>
@@ -70,23 +73,38 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Main.executor": "Run",
+    "Application.org.rishudesign.com.ElevatorCar.Main.executor": "Run",
     "Application.org.rishudesign.com.ParkingLot.ImprovedDesign.Main.executor": "Run",
     "Application.org.rishudesign.com.ParkingLot.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/rishu/OneDrive/Desktop/Low Level Design",
     "run.code.analysis.last.selected.profile": "pProject Default",
     "settings.editor.selected.configurable": "MavenSettings"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.org.rishudesign.com.ParkingLot.ImprovedDesign.Main">
+  <component name="RunManager" selected="Application.org.rishudesign.com.ElevatorCar.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.rishudesign.com.Main" />
       <module name="LLDRACTICE" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.rishudesign.com.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.rishudesign.com.ElevatorCar.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.rishudesign.com.ElevatorCar.Main" />
+      <module name="LLDRACTICE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.rishudesign.com.ElevatorCar.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,6 +140,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.org.rishudesign.com.ElevatorCar.Main" />
         <item itemvalue="Application.org.rishudesign.com.ParkingLot.ImprovedDesign.Main" />
         <item itemvalue="Application.org.rishudesign.com.ParkingLot.Main" />
         <item itemvalue="Application.Main" />
@@ -166,6 +185,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/org/rishudesign/com/ParkingLot/ParkingSpots/ParkingSpotManager.java</url>
           <line>22</line>
           <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/rishudesign/com/ParkingLot/ImprovedDesign/ExitGate.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
