@@ -42,7 +42,7 @@ public class BookingMyshowMultithreading {
 
                 System.out.println(
                         "SUCCESS: " +
-                                user1 +
+                                user1.getName() +
                                 " booked seats " + seats
                 );
 
@@ -50,7 +50,7 @@ public class BookingMyshowMultithreading {
 
                 System.out.println(
                         "FAILED: " +
-                                user1 +
+                                user1.getName() +
                                 " could not book seats"
                 );
             }
@@ -64,7 +64,7 @@ public class BookingMyshowMultithreading {
 
                 System.out.println(
                         "SUCCESS: " +
-                                user2 +
+                                user2.getName() +
                                 " booked seats " + seats
                 );
 
@@ -72,7 +72,7 @@ public class BookingMyshowMultithreading {
 
                 System.out.println(
                         "FAILED: " +
-                                user2 +
+                                user2.getName() +
                                 " could not book seats"
                 );
             }
