@@ -5,34 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="486cedd0-6a27-49ca-9059-e627d82126da" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/rishudesign/com/MovieBooking/BookMyShowApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/rishudesign/com/MovieBooking/BookingMyshowMultithreading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/rishudesign/com/MovieBooking/controller/BookingController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/rishudesign/com/MovieBooking/controller/TheatreController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/rishudesign/com/MovieBooking/entities/Booking.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/rishudesign/com/MovieBooking/entities/Movie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/rishudesign/com/MovieBooking/entities/Payment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/rishudesign/com/MovieBooking/entities/Screen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/rishudesign/com/MovieBooking/entities/Seat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/rishudesign/com/MovieBooking/entities/Show.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/rishudesign/com/MovieBooking/entities/Theatre.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/rishudesign/com/MovieBooking/entities/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/rishudesign/com/MovieBooking/enums/City.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/rishudesign/com/MovieBooking/enums/PaymentStatus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/rishudesign/com/MovieBooking/enums/SeatCategory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/rishudesign/com/MovieBooking/enums/SeatStatus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/rishudesign/com/MovieBooking/service/BookingService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/rishudesign/com/MovieBooking/service/TheatreService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/rishudesign/com/chainofresponsibility/Clerk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/rishudesign/com/chainofresponsibility/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/rishudesign/com/chainofresponsibility/Director.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/rishudesign/com/chainofresponsibility/Handler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/rishudesign/com/chainofresponsibility/Logger/Debug.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/rishudesign/com/chainofresponsibility/Logger/Error.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/rishudesign/com/chainofresponsibility/Logger/InfoLogger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/rishudesign/com/chainofresponsibility/Logger/Logger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/rishudesign/com/chainofresponsibility/Logger/client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/rishudesign/com/chainofresponsibility/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/rishudesign/com/practice/ParkingLot/CostCalculationStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/rishudesign/com/practice/ParkingLot/EntryGate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/rishudesign/com/practice/ParkingLot/ExitGate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/rishudesign/com/practice/ParkingLot/FourWheelerParkingSpotManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/rishudesign/com/practice/ParkingLot/HourlyCost.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/rishudesign/com/practice/ParkingLot/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/rishudesign/com/practice/ParkingLot/NearesParkingSpotStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/rishudesign/com/practice/ParkingLot/ParkingLot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/rishudesign/com/practice/ParkingLot/ParkingManagerFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/rishudesign/com/practice/ParkingLot/ParkingSpot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/rishudesign/com/practice/ParkingLot/ParkingSpotManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/rishudesign/com/practice/ParkingLot/ParkingSpotStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/rishudesign/com/practice/ParkingLot/ParkingStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/rishudesign/com/practice/ParkingLot/Ticket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/rishudesign/com/practice/ParkingLot/TwoWheelerParkingSpot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/rishudesign/com/practice/ParkingLot/TwoWheelerParkingSpotManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/rishudesign/com/practice/ParkingLot/Vechile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/rishudesign/com/practice/ParkingLot/VechileType.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -102,7 +92,7 @@
     "settings.editor.selected.configurable": "MavenSettings"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.BookingMyshowMultithreading">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="BookMyShowApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.rishudesign.com.MovieBooking.BookMyShowApp" />
       <module name="LLDRACTICE" />
@@ -129,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.rishudesign.com.CarRentalSystem.Client" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.rishudesign.com.practice.ParkingLot.Main" />
       <module name="LLDRACTICE" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.rishudesign.com.CarRentalSystem.*" />
+          <option name="PATTERN" value="org.rishudesign.com.practice.ParkingLot.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -170,11 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.BookingMyshowMultithreading" />
         <item itemvalue="Application.BookMyShowApp" />
         <item itemvalue="Application.client" />
         <item itemvalue="Application.org.rishudesign.com.chainofresponsibility.Client" />
-        <item itemvalue="Application.Client" />
       </list>
     </recent_temporary>
   </component>
