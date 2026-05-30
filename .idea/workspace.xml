@@ -5,25 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="486cedd0-6a27-49ca-9059-e627d82126da" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/rishudesign/com/practice/ParkingLot/CostCalculationStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/rishudesign/com/practice/ParkingLot/EntryGate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/rishudesign/com/practice/ParkingLot/ExitGate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/rishudesign/com/practice/ParkingLot/FourWheelerParkingSpotManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/rishudesign/com/practice/ParkingLot/HourlyCost.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/rishudesign/com/practice/ParkingLot/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/rishudesign/com/practice/ParkingLot/NearesParkingSpotStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/rishudesign/com/practice/ParkingLot/ParkingLot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/rishudesign/com/practice/ParkingLot/ParkingManagerFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/rishudesign/com/practice/ParkingLot/ParkingSpot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/rishudesign/com/practice/ParkingLot/ParkingSpotManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/rishudesign/com/practice/ParkingLot/ParkingSpotStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/rishudesign/com/practice/ParkingLot/ParkingStatus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/rishudesign/com/practice/ParkingLot/Ticket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/rishudesign/com/practice/ParkingLot/TwoWheelerParkingSpot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/rishudesign/com/practice/ParkingLot/TwoWheelerParkingSpotManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/rishudesign/com/practice/ParkingLot/Vechile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/rishudesign/com/practice/ParkingLot/VechileType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/rishudesign/com/InventoryManagement/Inventory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/rishudesign/com/InventoryManagement/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/rishudesign/com/InventoryManagement/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/rishudesign/com/InventoryManagement/Reservation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/rishudesign/com/InventoryManagement/ReservationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/rishudesign/com/InventoryManagement/ReservationStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/rishudesign/com/InventoryManagement/WareHouseController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/rishudesign/com/InventoryManagement/Warehouse.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,6 +69,7 @@
     "Application.Main.executor": "Run",
     "Application.client.executor": "Debug",
     "Application.org.rishudesign.com.ElevatorCar.Main.executor": "Run",
+    "Application.org.rishudesign.com.InventoryManagement.Main.executor": "Debug",
     "Application.org.rishudesign.com.ParkingLot.ImprovedDesign.Main.executor": "Run",
     "Application.org.rishudesign.com.ParkingLot.Main.executor": "Run",
     "Application.org.rishudesign.com.chainofresponsibility.Client.executor": "Run",
@@ -92,7 +82,7 @@
     "settings.editor.selected.configurable": "MavenSettings"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.org.rishudesign.com.InventoryManagement.Main">
     <configuration name="BookMyShowApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.rishudesign.com.MovieBooking.BookMyShowApp" />
       <module name="LLDRACTICE" />
@@ -145,12 +135,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="org.rishudesign.com.chainofresponsibility.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.rishudesign.com.chainofresponsibility.Client" />
+    <configuration name="org.rishudesign.com.InventoryManagement.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.rishudesign.com.InventoryManagement.Main" />
       <module name="LLDRACTICE" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.rishudesign.com.chainofresponsibility.*" />
+          <option name="PATTERN" value="org.rishudesign.com.InventoryManagement.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -160,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.org.rishudesign.com.InventoryManagement.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.BookingMyshowMultithreading" />
         <item itemvalue="Application.BookMyShowApp" />
         <item itemvalue="Application.client" />
-        <item itemvalue="Application.org.rishudesign.com.chainofresponsibility.Client" />
       </list>
     </recent_temporary>
   </component>
