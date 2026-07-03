@@ -22,7 +22,7 @@ public class ParkingSpotManager {
         for(ParkingSpot spot: spots) {
             freeSpots.add(spot);
             spotLocks.put(spot.getId(),new ReentrantLock());
-            occupied.put(spot.getId(), AVAILABLE);  // ✅ Initialize with AVAILABLE
+            occupied.put(spot.getId(), AVAILABLE);
         }
     }
 
@@ -41,6 +41,7 @@ public class ParkingSpotManager {
             if (occupied.get(spot.getId()) == AVAILABLE) {
                 occupied.put(spot.getId(), OCCUPIED);
                 freeSpots.remove(spot);
+                spot.parkVechile(v);
                 return spot;
             } else {
                 System.out.println("Spot already occupied!");

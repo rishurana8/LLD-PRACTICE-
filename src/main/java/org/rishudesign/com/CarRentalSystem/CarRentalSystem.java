@@ -3,7 +3,6 @@ package org.rishudesign.com.CarRentalSystem;
 import org.rishudesign.com.CarRentalSystem.enums.VechileType;
 
 import java.time.LocalDate;
-import java.util.Date;
 
 public class CarRentalSystem {
 

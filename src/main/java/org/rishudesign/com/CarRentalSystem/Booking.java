@@ -20,5 +20,7 @@ public class Booking {
 
     public LocalDate getFrom() { return from; }
     public LocalDate getTo() { return to; }
-
+    public User getUser(){
+        return this.user;
+    }
 }
